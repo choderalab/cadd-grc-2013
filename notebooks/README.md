@@ -14,3 +14,5 @@ Index
 * [Outliers](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Outliers.ipynb)
 * [Regression](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Regression.ipynb)
 * [DMSO issues](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/DMSO%2520issues.ipynb)
+* [Error estimation by bootstrapping](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Error%2520estimation%2520by%2520bootstrapping.ipynb)
+* [Error estimation by simulation](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Error%2520estimation%2520by%2520simulation.ipynb)
