@@ -1,5 +1,6 @@
-IPython notebooks
------------------
+# IPython notebooks for CADD GRC talk
+
+You can find the CADD 2013 slide deck these IPython notebooks were used in here: [[PDF]](https://raw.githubusercontent.com/choderalab/cadd-grc-2013/master/slides/2013-07-21%20CADD%20GRC%20-%20Experimental%20Terror%20-%207%20interleaved.pdf)
 
 To run IPython in notebook mode with inline figures:
 ```
