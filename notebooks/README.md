@@ -18,5 +18,5 @@ Index
 * [Error estimation by bootstrapping](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Error%2520estimation%2520by%2520bootstrapping.ipynb)
 * [Error estimation by simulation](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Error%2520estimation%2520by%2520simulation.ipynb)
 * [Serial dilution accuracy - acoustic vs tips](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Serial%2520dilution%2520accuracy%2520-%2520Echo%2520vs%2520tips.ipynb)
-* [Serial dilution accuracy - acoustic vs tips - 2% Echo CV](http://nbviewer.ipython.org/urls/raw.github.com/choderalab/cadd-grc-2013/master/notebooks/Serial%2520dilution%2520accuracy%2520-%2520Echo%2520vs%2520tips.ipynb)
+* [Serial dilution accuracy - acoustic vs tips - 2% Echo CV](http://nbviewer.ipython.org/urls/https://raw.githubusercontent.com/choderalab/cadd-grc-2013/master/notebooks/Serial%20dilution%20accuracy%20-%20Echo%20vs%20tips%20-%202%25%20Echo%20CV.ipynb)
 
